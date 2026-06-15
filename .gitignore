@@ -6,4 +6,5 @@ __pycache__/
 .aws/
 credentials
 config
-.DS_Store
+.DS_Store*.png
+*.zip
